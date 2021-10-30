@@ -102,9 +102,9 @@ let anime = [
         link: 'https://www.imdb.com/title/tt9426210/?ref_=fn_al_tt_1'
     },
     {
-        name: 'kimi no na wa',
+        name: 'your name',
         des: 'Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.',
-        image: 'images/anime 2.PNG',
+        image: 'images/anime 2.jpg',
         rate: '8.4',
         link: 'https://www.imdb.com/title/tt5311514/?ref_=nv_sr_srsg_0'
     }
