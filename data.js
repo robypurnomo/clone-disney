@@ -2,12 +2,12 @@ let movies = [
     {
         name: 'kimi no nawa',
         des: 'Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person.',
-        image: 'images/slider 2.PNG'
+        image: 'images/slider 2.png'
     },
     {
         name: 'shang-chi',
         des: 'Martial-arts master Shang-Chi confronts the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.',
-        image: 'images/slider 1.PNG'
+        image: 'images/slider 1.png'
     },
     {
         name: 'wanda vision',
@@ -22,12 +22,12 @@ let movies = [
     {
         name: 'game of thrones',
         des: 'Years after a rebellion spurred by a stolen bride to be and the blind ambitions of a mad King, Robert of the house Baratheon (Mark Addy) sits on the much desired Iron Throne. In the mythical land of Westeros, nine noble families fight for every inch of control and every drop of power.',
-        image: 'images/slider 5.JPG'
+        image: 'images/slider 5.jpg'
     },
     {
         name: 'your lie in april',
         des: 'A piano prodigy is unable to play music after his mother dies, until he meets a violin player.',
-        image: 'images/slider 6.JPG'
+        image: 'images/slider 6.jpg'
     }
 ]
 
